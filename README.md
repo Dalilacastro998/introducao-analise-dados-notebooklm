@@ -129,7 +129,7 @@ Um prompt bem elaborado não substitui uma curadoria adequada das fontes.
 
 O NotebookLM estruturou a investigação em etapas, começando pela conexão, limpeza e organização dos dados.
 
-Em seguida, apresentou a análise exploratória para identificar padrões e anomalias, investigação das possíveis causas, projeções futuras e, por fim, comunicação dos resultados para apoiar a tomada de decisão.
+O NotebookLM estruturou a investigação em etapas, começando pela verificação, organização e limpeza dos dados. Em seguida, apresentou possibilidades de análise exploratória para identificar padrões e anomalias, investigação de possíveis causas, análise de tendências e comunicação dos resultados para apoiar a tomada de decisão.
 
 Entre as perguntas sugeridas estavam:
 
@@ -194,21 +194,11 @@ Os insights podem apoiar decisões baseadas em evidências.
 
 ## Excel
 
-O Excel pode ser utilizado para organizar, explorar e analisar dados.
-
-Entre seus recursos estão:
-
-* tabelas;
-* gráficos;
-* tabelas dinâmicas;
-* fórmulas;
-* organização e tratamento de dados.
+O Excel pode ser utilizado para organizar, explorar e analisar dados, utilizando recursos como tabelas, gráficos e tabelas dinâmicas.
 
 ## Power BI
 
-O Power BI é utilizado para conectar fontes de dados, transformar e modelar informações e criar relatórios e dashboards interativos.
-
-Uma das principais vantagens é permitir que grandes conjuntos de informações sejam apresentados de forma visual, facilitando sua interpretação.
+O Power BI pode ser utilizado para conectar fontes de dados, trabalhar com modelos de dados e criar relatórios e visualizações interativas para facilitar a análise e a comunicação dos resultados.
 
 ---
 
